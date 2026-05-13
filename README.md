@@ -1,2 +1,2 @@
 # library_management_system
-A library management system in C programming 
+A library management system in C programming (WORK IN PROGRESS...)
